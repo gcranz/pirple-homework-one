@@ -5,6 +5,8 @@ Pirple NodeJS Master Class Homework Assignment #1
 
 This is the first of several homework assignments you'll receive in this course. In order to receive your certificate of completion (at the end of this course) you must complete all the assignments and receive a passing grade.
 
+### Ok Sensei, break out the red pen & come at me bro
+
 ## The Assignment:
 
 Please create a simple "Hello World" API. Meaning:
@@ -26,6 +28,12 @@ Please create a simple "Hello World" API. Meaning:
 
 1. Create a public github repo for this assignment. 
 
+### You're soaking in it.
+
 2. Create a new thread in the discussion forum and note "Homework Assignment #1" at the top of your post.
 
+### Done.
+
 3. In that thread, discuss what you have built, and include the link to your Github repo.
+
+### If you found your way here - it would be because of that.
