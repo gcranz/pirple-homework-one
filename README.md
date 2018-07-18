@@ -19,4 +19,10 @@ Please create a simple "Hello World" API. Meaning:
 
 1. It should be a RESTful JSON API that listens on a port of your choice. 
 
+### By default http on port 3000 & https on port 3443.  There is a Production mode available that runs on 8080/8443 respectively.
+
 2. When someone posts anything to the route /hello, you should return a welcome message, in JSON format. This message can be anything you want. 
+
+### there are three available routes:  /hello, /ping & /dts
+### all three will return 200 status codes
+### /hello and /dts also return JSON responses
